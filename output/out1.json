@@ -1,0 +1,6 @@
+{
+  "Default password vulnerable": {
+        "admin": "admin",
+        "password": "admin"
+  }
+}

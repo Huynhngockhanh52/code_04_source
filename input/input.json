@@ -1,0 +1,22 @@
+{
+  "Device": {
+        "device": "router",
+        "label": "tplink",
+        "type": "tlwr840n",
+        "mode": "1234"
+  },
+  "Mode 1": {
+        "mode": "1"
+  },
+  "Mode 2": {
+        "mode": "2"
+  },
+  "Mode 3": {
+        "mode": "3",
+        "username": "admin",
+        "password": "admin"
+  },
+  "Mode 4": {
+        "mode": "4"
+  }
+}
